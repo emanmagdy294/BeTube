@@ -1,0 +1,62 @@
+{
+    "header": {
+        "about": "About us",
+        "blog": "Blogs",
+        "contact": "Contact us",
+        "movie": "Most watched",
+        "logout": "Logout",
+        "login": "Login",
+        "register": "Register",
+        "logout message": "Are you sure you're signing out ?",
+        "not login":"Not Logout"
+    },
+    "Home": {
+        "Home": "Home",
+        "trend film": "NOW IN THE CINEMA",
+        "about": "This site helps you know the most watched films and series in the world, as well as the most famous actors in this period.",
+        "about two": "A lot of fun, discussions, queezes and contests among members.",
+        "about three": "Always be first to know about best offers from cinemas and our partners",
+        "movie app": "MOVIE APP",
+        "smart phone": "for all smartphones and tablets",
+        "join": "Join our social groups",
+        "watch": "Watch your favorite movie now",
+        "release date": "Release Date"
+    },
+    "details": {
+        "vote": "Vote",
+        "revenu": "Revenu",
+        "overview": "Overview",
+        "status": "Status",
+        "budget": "Budget",
+        "comments": "Comments",
+        "add comment": "Add comment"
+    },
+    "movies": {
+        "film": "Trending Films",
+        "person": "Top 100 Actors and Actresses",
+        "tv": "Trending TV"
+    },
+    "about": {
+        "about us": "FOUNDED IN 2008 . WE PRODUCT VISUAL CONTENT SERVICE CREATIVE TO POST PRODUCTION."
+    },
+    "contact": {
+        "contact": "Contact Us",
+        "contact form": "Contact Form",
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message",
+        "send": "Send"
+    },
+    "auth": {
+        "Register Now": "Create An account",
+        "First Name": "First Name",
+        "Last Name": "Last Name",
+        "Age": "Age",
+        "Password": "Password",
+        "register": "Register",
+        "member": "Already a member? Login here",
+        "login now": "Login Now",
+        "not member": "Don't have an account? Register here"
+    }
+}

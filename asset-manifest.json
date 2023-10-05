@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2355ac59.css",
+    "main.js": "/static/js/main.3f042a05.js",
+    "static/js/787.2b35ebb1.chunk.js": "/static/js/787.2b35ebb1.chunk.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/login.jpg": "/static/media/login.8bbc3417b243124ef75b.jpg",
+    "static/media/pexels-photo-38196.webp": "/static/media/pexels-photo-38196.49c29a845388f7f2e89c.webp",
+    "static/media/slider-1-2.webp": "/static/media/slider-1-2.36bf9a29942c6c07aace.webp",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/hp-service-bg-2.webp": "/static/media/hp-service-bg-2.c3db93337440b00f415e.webp",
+    "static/media/boots.jpg": "/static/media/boots.3f4679dc1e4fec61cf8b.jpg",
+    "static/media/sale.jpg": "/static/media/sale.afdb355cc7111187e23e.jpg",
+    "static/media/goodleadv.png": "/static/media/goodleadv.e3c290337cc3b6d2fc2d.png",
+    "static/media/film-camera.png": "/static/media/film-camera.184f351c77761c1d9e78.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/user.png": "/static/media/user.a6143582309785dca610.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.2355ac59.css.map": "/static/css/main.2355ac59.css.map",
+    "main.3f042a05.js.map": "/static/js/main.3f042a05.js.map",
+    "787.2b35ebb1.chunk.js.map": "/static/js/787.2b35ebb1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2355ac59.css",
+    "static/js/main.3f042a05.js"
+  ]
+}
